@@ -1,0 +1,14 @@
+
+project name:Electricity billing system
+
+step 1) create splash class
+2) create login page
+3) create signup page
+4) Make JDBC connection by using conn class
+5) create project.java
+6) create NewCustomer class
+7) create Meter Info class
+
+
+Note: In this project only admin can create New Customer and then by using meter no 
+customer can sign in and then login to site
